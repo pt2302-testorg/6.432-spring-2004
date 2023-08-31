@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Signal Processing"
+    ],
+    [
+      "Mathematics",
+      "Applied Mathematics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "c574514e-0ef1-8cc5-cf84-641ec6ca9079",
+  "instructors": {
+    "content": [
+      "9797bf91-e617-4c82-81e1-bfee0f852614",
+      "215a74d1-8630-141b-57a1-ef254f59542b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "47903e1c-28a3-8651-62b3-c477757c56fb",
+    "website": "6-432-stochastic-processes-detection-and-estimation-spring-2004"
+  },
+  "course_title": "Stochastic Processes, Detection, and Estimation",
+  "course_description": "This course\u00a0examines the fundamentals of detection and estimation for signal processing, communications, and control. Topics covered include: vector spaces of random variables; Bayesian and Neyman-Pearson hypothesis testing; Bayesian and nonrandom parameter estimation; minimum-variance unbiased estimators and the Cramer-Rao bounds; representations for stochastic processes, shaping and whitening filters, and\u00a0Karhunen-Loeve expansions; and\u00a0detection and estimation from waveform observations. Advanced topics include: linear prediction and spectral estimation, and\u00a0Wiener and Kalman filters.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.432",
+  "course_image_thumbnail": {
+    "content": "84c1480c-9fbc-78d8-a7e9-f518575d96b1",
+    "website": "6-432-stochastic-processes-detection-and-estimation-spring-2004"
+  },
+  "learning_resource_types": [],
+  "site_uid": "158b2b91-7ad6-4fb6-a6b0-2bc535c92a8a",
+  "site_short_id": "6.432-spring-2004",
+  "title": "Course Metadata"
+}
